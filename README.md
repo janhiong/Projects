@@ -28,9 +28,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 ## 🛠️ Python
 
-| Project Link | Purpose | Project Description |
+| Project Link | Area | Project Description |
 |--------------|---------|----------------------|
-| [Python Script](#) | Tool/Automation/Data Analysis | Describe the script's purpose and what it accomplishes. |
+| [[Python Script](#)](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA, Data Modeling | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
 
 ---
 
@@ -41,4 +41,3 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | [Tableau Dashboard](#) | Visualization Topic | Highlight the data visualization topic and the insights it offers. |
 
 ---
-
