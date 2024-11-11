@@ -7,7 +7,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 - [SQL](#sql-projects)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Guides](#guides)
 
 ---
 
@@ -44,8 +43,3 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 ---
 
-## ✍️ Guides
-
-| Guide Link | Topic | Description |
-|------------|-------|-------------|
-| [Guide Title](#) | Subject | Brief overview of what the guide covers and its intended audience. |
