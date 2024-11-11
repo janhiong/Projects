@@ -9,20 +9,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 ---
 
-## 🚀 Data Engineering
-
-| Project Link | Completion Date | Tools | Project Description |
-|--------------|-----------------|-------|----------------------|
-| [Project Name](#) | Month Year | Tool 1, Tool 2, Tool 3 | Briefly describe your project, focusing on its purpose and key technologies used. |
-| [Another Project](#) | Month Year | Tool 1, Tool 2 | Summarize this project, highlighting any unique challenges or results. |
-
----
-
 ## ♻️ SQL Projects
 
 | Project Link | Area of Analysis | Project Description |
 |--------------|------------------|----------------------|
-| [SQL Project](#) | Topic of Analysis | Short summary of the analysis performed and its outcomes. |
+| [Health Analytics Mini Case Study](https://github.com/Janhi2004/Health-Analytics-Case-Study/blob/main/README.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |
 
 ---
 
