@@ -35,3 +35,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | [Tableau Dashboard](#) | Visualization Topic | Highlight the data visualization topic and the insights it offers. |
 
 ---
+## 📊 Power BI
+
+| Project Link | Dashboard Topic | Project Description |
+|--------------|------------------|----------------------|
+| [eCommerce Dashboard](https://github.com/Janhi2004/eCommerce-Data-Visualization-PowerBI) | Data Visualization | This project aims to create an interactive Power BI dashboard for an eCommerce business, offering insights into sales, profit by category, product performance, and customer analysis. It will support stakeholders in making data-driven decisions to enhance business performance.|
+
+---
+
