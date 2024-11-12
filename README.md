@@ -24,6 +24,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | Project Link | Area | Project Description |
 |--------------|---------|----------------------|
 | [📱 Social Media and Suicide Rate](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA, Data Modeling | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
+| [📱 Hotel Booking](https://github.com/Janhi2004/Hotel-Booking---End-to-End-Project---Python) | EDA, Data Visualization | City Hotel and Resort Hotel have faced high cancellation rates in recent years, causing revenue loss and inefficient room utilization. To improve revenue generation, this project will analyze booking cancellations and other factors impacting business and revenue, providing targeted recommendations to address the issue.|
 
 ---
 
