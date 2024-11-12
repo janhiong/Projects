@@ -33,6 +33,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 | Project Link | Dashboard Topic | Project Description |
 |--------------|------------------|----------------------|
 | [Sales Dashboard](https://github.com/Janhi2004/Sales-Dashboard/blob/main/README.md) | Data Visualization | This dashboard offers an interactive overview of key sales metrics, trends, and segment distribution, enabling executives and analysts to monitor performance, track growth, and make data-driven decisions. It includes metrics for Total Sales, Total Profit, and Total Quantity, with year-over-year comparisons and monthly segment analysis.|
+| [Revenue Analysis Dashboard](https://github.com/Janhi2004/Revenue-Analysis/blob/main/README.md) | Data Visualization | This dashboard offers an in-depth analysis of revenue and sales across various markets and products over multiple years, helping executives and analysts pinpoint high-performing regions, key customers, and top products. It includes essential metrics and visualizations, such as monthly revenue trends and top revenue sources, to support strategic, data-driven decisions.|
 
 ---
 ## 📊 Power BI
