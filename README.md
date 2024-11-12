@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 | Project Link | Dashboard Topic | Project Description |
 |--------------|------------------|----------------------|
-| [Sales Dashboard](#) | Data Visualization | Highlight the data visualization topic and the insights it offers. |
+| [Sales Dashboard](https://github.com/Janhi2004/Sales-Dashboard/blob/main/README.md) | Data Visualization | This dashboard offers an interactive overview of key sales metrics, trends, and segment distribution, enabling executives and analysts to monitor performance, track growth, and make data-driven decisions. It includes metrics for Total Sales, Total Profit, and Total Quantity, with year-over-year comparisons and monthly segment analysis.|
 
 ---
 ## 📊 Power BI
