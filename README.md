@@ -32,7 +32,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 
 | Project Link | Dashboard Topic | Project Description |
 |--------------|------------------|----------------------|
-| [Tableau Dashboard](#) | Visualization Topic | Highlight the data visualization topic and the insights it offers. |
+| [Sales Dashboard](#) | Data Visualization | Highlight the data visualization topic and the insights it offers. |
 
 ---
 ## 📊 Power BI
