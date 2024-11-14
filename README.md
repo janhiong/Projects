@@ -7,6 +7,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in vario
 - [Python](#python)
 - [Tableau](#tableau)
 - [PowerBI](#power-bi)
+- [Machine Learning](#machine-learning)
+- [A/B Testing](#a/b-testing)
 
 ---
 
