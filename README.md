@@ -1,6 +1,6 @@
 # Janhi's Projects
 
-Welcome to my personal data portfolio! Here, I document a summary of my projects in various fields.
+Welcome to my personal portfolio! Here, I document a summary of my projects in various fields.
 
 ## ✨ Table of Contents
 - [SQL](#sql-projects)
