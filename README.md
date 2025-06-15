@@ -23,8 +23,7 @@ Welcome to my personal portfolio! Here, I document a summary of my projects in v
 
 | Project Link | Project Description |
 |------------------|----------------------|
-| [S&P500](https://github.com/janhiong/sp500) | Built C++ console application simulating long-term SP500 investments with buying, holding, and selling actions by
-tracking historical stock market performance from Nasdaq market data |
+| [S&P500](https://github.com/janhiong/sp500) | Built C++ console application simulating long-term SP500 investments with buying, holding, and selling actions by tracking historical stock market performance from Nasdaq market data |
 
 ---
 
