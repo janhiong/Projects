@@ -16,8 +16,8 @@ Welcome to my personal portfolio! Here, I document a summary of my projects in v
 | Project Link | Project Description |
 |------------------|----------------------|
 | [RefNet](https://github.com/janhiong/RefNet) | Lead a team of 4 to develop a full-stack internship discovery platform that automates the scraping of newly posted internships and dispatches daily email updates to over 1000 subscribed students. |
-| [RefNet](https://github.com/janhiong/RefNet) | Lead a team of 4 to develop a full-stack internship discovery platform that automates the scraping of newly posted internships and dispatches daily email updates to over 1000 subscribed students. |
-| [RefNet](https://github.com/janhiong/RefNet) | Lead a team of 4 to develop a full-stack internship discovery platform that automates the scraping of newly posted internships and dispatches daily email updates to over 1000 subscribed students. |
+| [summarAIze](https://github.com/chauta03/summarAIze) | Built a live transcription web app with React and Three.js, integrating Google Meet, Microsoft Teams, and Zoom for real-time meeting summaries. |
+| [betterTransit](https://github.com/dyzhao1011/bettertransit) | Developed a machine learning model to predict passenger volume on buses and trains in New York at specific times using historical MTA data. |
 
 
 ---
