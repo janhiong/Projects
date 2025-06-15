@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! Here, I document a summary of my projects in various fields.
 
 ## ✨ Table of Contents
-- [Full-stack](#full-stack)
+- [Full-Stack](#full-stack)
 - [SQL](#sql-projects)
 - [Python](#python)
 - [Tableau](#tableau)
@@ -11,6 +11,13 @@ Welcome to my personal portfolio! Here, I document a summary of my projects in v
 
 ---
 ## ♻️ Full-Stack
+
+| Project Link | Area of Analysis | Project Description |
+|--------------|------------------|----------------------|
+| [Health Analytics Mini Case Study](https://github.com/Janhi2004/Health-Analytics-Case-Study/blob/main/README.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |
+| [Danny's Dinner Mini Case Study](https://github.com/Janhi2004/Danny-s-Dinner) | Case Study | Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. |
+| [Data Mart Mini Case Study](https://github.com/Janhi2004/Data-Mart) | Case Study | Danny needs your help to analyse and quantify the impact of this change on the sales performance for Data Mart and it’s separate business areas.|
+
 ---
 
 ## ♻️ SQL Projects
