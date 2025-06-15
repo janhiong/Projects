@@ -3,11 +3,14 @@
 Welcome to my personal portfolio! Here, I document a summary of my projects in various fields.
 
 ## ✨ Table of Contents
+- [Full-stack](#full-stack)
 - [SQL](#sql-projects)
 - [Python](#python)
 - [Tableau](#tableau)
 - [PowerBI](#power-bi)
 
+---
+## ♻️ Full-Stack
 ---
 
 ## ♻️ SQL Projects
