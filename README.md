@@ -13,11 +13,9 @@ Welcome to my personal portfolio! Here, I document a summary of my projects in v
 ## Full-Stack
 
 | Project Link | Project Description |
-|--------------|------------------|----------------------|
+|--------------|----------------------|
 | [RefNet](https://github.com/janhiong/RefNet) | Lead a team of 4 to develop a full-stack internship discovery platform that automates the scraping of newly posted
 internships and dispatches daily email updates to over 1000 subscribed students. |
-| [Danny's Dinner Mini Case Study](https://github.com/Janhi2004/Danny-s-Dinner) | Case Study | Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. |
-| [Data Mart Mini Case Study](https://github.com/Janhi2004/Data-Mart) | Case Study | Danny needs your help to analyse and quantify the impact of this change on the sales performance for Data Mart and it’s separate business areas.|
 
 ---
 
